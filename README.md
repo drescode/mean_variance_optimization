@@ -1,4 +1,4 @@
-# mean_variance_optimization
+# stock_portfolio_optimization
 
 Stock Portfolio Optimization
 
